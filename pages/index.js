@@ -1,4 +1,3 @@
-import xw from 'xwind'
 import ButtonReact from '../components/ButtonReact'
 import ButtonStyled from '../components/ButtonStyled'
 import Login from '../components/Login'
@@ -14,7 +13,7 @@ function Index() {
   {
 
     return <Login>
-      
+
     </Login>
 
   }
