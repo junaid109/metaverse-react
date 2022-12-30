@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import { Global } from '@emotion/react'
-import xw from 'xwind'
 import { MoralisProvider } from "react-moralis"
 
 function App({ Component, pageProps }) {

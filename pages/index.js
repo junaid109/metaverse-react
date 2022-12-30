@@ -8,13 +8,10 @@ function Index() {
 
   const { authenticate, isAuthenticated, isAuthenticating, user } = useMoralis();
 
-
-
   if(isAuthenticated) 
   {
 
     return <Login>
-
     </Login>
 
   }
