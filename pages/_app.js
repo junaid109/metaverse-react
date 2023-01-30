@@ -7,10 +7,7 @@ function App({ Component, pageProps }) {
       <Head>
         <title>React Metaverse</title>
       </Head>
-      <Global
-        //tailwind base styles + keyframes + ring and shadow classes variables  ... to global styles
-        styles={xw`XWIND_BASE XWIND_GLOBAL`}
-      />
+    
       <Component {...pageProps} />
     </MoralisProvider>
     
