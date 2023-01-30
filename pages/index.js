@@ -2,7 +2,6 @@ import ButtonReact from '../components/ButtonReact'
 import ButtonStyled from '../components/ButtonStyled'
 import Login from '../components/Login'
 import { useMoralis } from "react-moralis";
-import '../styles/globals.css'
 
 function Index() {
 
