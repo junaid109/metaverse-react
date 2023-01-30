@@ -16,6 +16,7 @@ function Login() {
             
             <button onClick={() => authenticate} className='bg-blue-500 p-5 rounded-full text-white font-bold animate-pulse'>Login with Metamask</button>
             
+            
         </div>
 
         <div className='w-full h-screen'>
