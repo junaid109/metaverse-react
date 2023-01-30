@@ -1,9 +1,8 @@
 /* Example with @emotion/react */
-import xw, { cx } from 'xwind'
 
 //"react native style"
 const styles = {
-  button: xw`
+  button:`
     relative
     w-64 min-w-full
     flex justify-center
